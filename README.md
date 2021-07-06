@@ -65,3 +65,6 @@ To navigate:
    Click '2D Nav Goal'.
 
    Click and drag at the position you want the robot to go.
+   
+   ![image](https://user-images.githubusercontent.com/85695324/124598035-db2e2200-de6c-11eb-8149-bb0d38c45710.png)
+
