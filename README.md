@@ -88,6 +88,8 @@ To navigate:
    
    ![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
    
+   ![Screenshot 2021-07-06 202115](https://user-images.githubusercontent.com/85695324/124642195-3de8e300-de98-11eb-8fea-8096ff4bd873.png)
+   
    and this is the saved map:
    
    ![image](https://user-images.githubusercontent.com/85695324/124598035-db2e2200-de6c-11eb-8149-bb0d38c45710.png)
