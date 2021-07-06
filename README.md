@@ -56,6 +56,8 @@ To start mapping:
  
  ![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
 
+![Screenshot 2021-07-06 201952](https://user-images.githubusercontent.com/85695324/124641927-e3e81d80-de97-11eb-847a-4630bf5be461.png)
+
 
    and this is the saved map: 
    
