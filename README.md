@@ -59,7 +59,7 @@ To start mapping:
 ![Screenshot 2021-07-06 201952](https://user-images.githubusercontent.com/85695324/124641927-e3e81d80-de97-11eb-847a-4630bf5be461.png)
 
 
-   and this is the saved map: 
+   And this is the saved map after simulation : 
    
 ![map ](https://user-images.githubusercontent.com/85695324/124625455-7da6cf00-de86-11eb-8cd2-1ea2e17ca8a2.png)
 
@@ -90,7 +90,7 @@ To navigate:
    
    ![Screenshot 2021-07-06 202115](https://user-images.githubusercontent.com/85695324/124642195-3de8e300-de98-11eb-8fea-8096ff4bd873.png)
    
-   and this is the saved map:
+  And this is the saved map after simulation :
    
    ![image](https://user-images.githubusercontent.com/85695324/124598035-db2e2200-de6c-11eb-8149-bb0d38c45710.png)
 
