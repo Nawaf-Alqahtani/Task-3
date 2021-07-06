@@ -1,4 +1,5 @@
 # Task-3 Use another ROS robot whit SLAM approach to create and save a map.
+
 1. Installation
 1.1 Clone and install all dependencies:
 
@@ -14,7 +15,7 @@ rosdep install --from-paths src --ignore-src -r -y
 
 cd <catkin_ws>
 catkin_make
-source <your_ws>/devel/setup.bash
+source <catkin_ws>/devel/setup.bash
 
 
 2.1 Walking demo in RVIZ:
@@ -38,12 +39,12 @@ roslaunch champ_config slam.launch rviz:=true
 
 To start mapping:
 
-   Click '2D Nav Goal'.
+   I click '2D Nav Goal'.
 
-   Click and drag at the position you want the robot to go.
+   I click and drag the position i want the robot to go.
     
     
-![image](https://user-images.githubusercontent.com/85695324/124594933-0d3d8500-de69-11eb-9bca-ef05befa1980.png)
+![map ](https://user-images.githubusercontent.com/85695324/124625455-7da6cf00-de86-11eb-8cd2-1ea2e17ca8a2.png)
 
 
    Save the map by running:
@@ -62,9 +63,9 @@ roslaunch champ_config navigate.launch rviz:=true
 
 To navigate:
 
-   Click '2D Nav Goal'.
+   I click '2D Nav Goal'.
 
-   Click and drag at the position you want the robot to go.
+   I click and drag the position i want the robot to go.
    
    ![image](https://user-images.githubusercontent.com/85695324/124598035-db2e2200-de6c-11eb-8149-bb0d38c45710.png)
 
