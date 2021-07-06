@@ -57,7 +57,8 @@ To start mapping:
  ![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
 
 
-    
+   and this is the saved map: 
+   
 ![map ](https://user-images.githubusercontent.com/85695324/124625455-7da6cf00-de86-11eb-8cd2-1ea2e17ca8a2.png)
 
 
@@ -82,6 +83,8 @@ To navigate:
    I click '2D Nav Goal'.
 
    I click and drag the position i want the robot to go.
+   
+   and this is the saved map:
    
    ![image](https://user-images.githubusercontent.com/85695324/124598035-db2e2200-de6c-11eb-8149-bb0d38c45710.png)
 
