@@ -1,9 +1,9 @@
 # Task-3 Use another ROS robot whit SLAM approach to create and save a map.
 
-1. Installation
+I used a Quadruped Robot Controller for this task and I simulated and wrote commands for this bot to create a map and then save it.
 
 
-3.1 Clone and install all dependencies:
+1. Installation:
 
 sudo apt install -y python-rosdep
 
