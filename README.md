@@ -54,9 +54,10 @@ To start mapping:
 
    I click and drag the position i want the robot to go.
  
- ![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
 
 ![Screenshot 2021-07-06 201952](https://user-images.githubusercontent.com/85695324/124641927-e3e81d80-de97-11eb-847a-4630bf5be461.png)
+
+![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
 
 
    And this is the saved map after simulation : 
@@ -86,9 +87,9 @@ To navigate:
 
    I click and drag the position i want the robot to go.
    
-   ![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
-   
    ![Screenshot 2021-07-06 202115](https://user-images.githubusercontent.com/85695324/124642195-3de8e300-de98-11eb-8fea-8096ff4bd873.png)
+   
+   ![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
    
   And this is the saved map after simulation :
    
