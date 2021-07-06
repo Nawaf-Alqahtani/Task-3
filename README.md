@@ -43,3 +43,25 @@ To start mapping:
    Click and drag at the position you want the robot to go.
     
     
+![image](https://user-images.githubusercontent.com/85695324/124594933-0d3d8500-de69-11eb-9bca-ef05befa1980.png)
+
+
+   Save the map by running:
+
+   roscd champ_config/maps
+   rosrun map_server map_saver
+
+2.3 Autonomous Navigation:
+2.3.1 Run the Gazebo environment:
+
+roslaunch champ_config gazebo.launch 
+
+2.3.2 Run amcl and move_base:
+
+roslaunch champ_config navigate.launch rviz:=true
+
+To navigate:
+
+   Click '2D Nav Goal'.
+
+   Click and drag at the position you want the robot to go.
