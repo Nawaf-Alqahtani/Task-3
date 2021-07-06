@@ -53,7 +53,10 @@ To start mapping:
    I click '2D Nav Goal'.
 
    I click and drag the position i want the robot to go.
-    
+ 
+ ![Screenshot 2021-07-06 200719](https://user-images.githubusercontent.com/85695324/124640337-f19ca380-de95-11eb-9a06-b229336678e0.png)
+
+
     
 ![map ](https://user-images.githubusercontent.com/85695324/124625455-7da6cf00-de86-11eb-8cd2-1ea2e17ca8a2.png)
 
